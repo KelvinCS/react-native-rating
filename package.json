@@ -1,0 +1,25 @@
+{
+  "name": "rn-rating-stars",
+  "version": "1.0.0",
+  "description": "A simple and fast star rating for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelvin1046/react-native-rating.git"
+  },
+  "keywords": [
+    "ReactNative",
+    "StarRating",
+    "star-rating",
+    "react"
+  ],
+  "author": "Kelvin C.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelvin1046/react-native-rating/issues"
+  },
+  "homepage": "https://github.com/kelvin1046/react-native-rating#readme"
+}
