@@ -9,7 +9,7 @@ class StarRating extends Component {
         super(props)
         
         let baseConfig = {
-            rating, 
+            rating: 0, 
             maxStars: 5,
             colorStarSelected: '#FFAB00',
             colorStarUnselected: '#9E9E9E',
